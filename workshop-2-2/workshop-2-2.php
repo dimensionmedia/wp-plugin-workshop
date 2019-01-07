@@ -1,3 +1,4 @@
+<?php
 /**
  * Workshop Plugin - Section 2 - 2 
  *
@@ -20,3 +21,5 @@
 
 
  /* This is a PHPDoc DocBlock example - what the pros would use. :- */
+
+ ?>
